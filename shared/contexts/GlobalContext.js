@@ -4,7 +4,7 @@ const GlobalContext = createContext({
   loading: {},
 })
 
-export const useGlobal = () => {
+export const useGlobalContext = () => {
   return useContext(GlobalContext)
 }
 
