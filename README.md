@@ -3,10 +3,10 @@
 <h3 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Guide setup Redux with Next JS</h3>
   
 <p align="center">
-  <a href="https://github.com/tampm92/tp-nextjs-ssr-vs-ssg-vs-client-side"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/tampm92/tp-nextjs-ssr-vs-ssg-vs-client-side/build"></a>
-  <a href="#last-commit"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tampm92/tp-nextjs-ssr-vs-ssg-vs-client-side"></a>
+  <a href="https://github.com/tampm92/tp-redux-nextjs-ssr-vs-ssg-vs-client-side"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/tampm92/tp-redux-nextjs-ssr-vs-ssg-vs-client-side/build"></a>
+  <a href="#last-commit"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tampm92/tp-redux-nextjs-ssr-vs-ssg-vs-client-side"></a>
   <a href="#node-current"><img alt="node-current" src="https://img.shields.io/node/v/next"></a>
-  <a href="#license"><img alt="GitHub" src="https://img.shields.io/github/license/tampm92/tp-nextjs-ssr-vs-ssg-vs-client-side"></a>
+  <a href="#license"><img alt="GitHub" src="https://img.shields.io/github/license/tampm92/tp-redux-nextjs-ssr-vs-ssg-vs-client-side"></a>
 </p>
   
 <p align="center">
