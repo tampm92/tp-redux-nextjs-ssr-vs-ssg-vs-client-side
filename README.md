@@ -104,7 +104,7 @@ yarn start
 
 ## Documentation
 
-### **Prepare seting**
+### **Prepare setting**
 
 You can read this [blog](https://blog.tampm.com/posts/next-js-server-side-rendering-vs-static-generation-vs-client-side)
 
